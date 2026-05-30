@@ -36,3 +36,6 @@ skills_and_stack:
 
 * **Telegram:** [@JazzyBeen](https://www.google.com/search?q=https://t.me/JazzyBeen)
 * **Phone:** +7 (953) 156 64-35
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65d04298-54b9-440e-94e8-577b1da18eff" width="200" alt="App Screenshot" />
+</p>
