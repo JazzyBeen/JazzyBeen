@@ -2,7 +2,7 @@
 
 **Email:** huseinsadigov@gmail.com
 
-An Android Developer engaged in building mobile applications with modern Android architecture, clean code, and robust data management.
+I am a 2nd year ITMO University student focused on native Android development using Kotlin and Java.
 
 ---
 
@@ -11,7 +11,6 @@ An Android Developer engaged in building mobile applications with modern Android
 ```yaml
 identity:
   name: Huseyn Sadigov
-  role: Android Developer
   education: ITMO University, Faculty of FITP (Software Engineering, 2024-2028)
   languages: [Russian, Azerbaijani, Turkish, English (B2)]
 
@@ -35,7 +34,6 @@ skills_and_stack:
 ### 📫 Connect with me
 
 * **Telegram:** [@JazzyBeen](https://www.google.com/search?q=https://t.me/JazzyBeen)
-* **Phone:** +7 (953) 156 64-35
 <p align="center">
   <img src="https://github.com/user-attachments/assets/65d04298-54b9-440e-94e8-577b1da18eff" width="200" alt="App Screenshot" />
 </p>
