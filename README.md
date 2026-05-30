@@ -1,16 +1,38 @@
-## Hi there 👋
+<img src="https://github.com/user-attachments/assets/9e341218-c959-4663-9366-fd0e275e5782" width="90%" alt="App Screenshot" />
 
-<!--
-**JazzyBeen/JazzyBeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Email:** huseinsadigov@gmail.com
 
-Here are some ideas to get you started:
+An Android Developer engaged in building mobile applications with modern Android architecture, clean code, and robust data management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+```yaml
+identity:
+  name: Huseyn Sadigov
+  role: Android Developer
+  education: ITMO University, Faculty of FITP (Software Engineering, 2024-2028)
+  languages: [Russian, Azerbaijani, Turkish, English (B2)]
+
+core_disciplines:
+  - Object-Oriented Programming
+  - Algorithms and Data Structures
+  - Java Programming Technologies
+  - Database Design
+
+skills_and_stack:
+  languages: [Kotlin, Java]
+  android_sdk: [Jetpack Compose, XML, ViewModel, Lifecycle]
+  architecture_di: [MVVM, Clean Architecture, Dagger/Hilt]
+  networking_storage: [Retrofit, Room]
+  tools: [Git, Android Studio, Gradle]
+
+```
+
+---
+
+### 📫 Connect with me
+
+* **Telegram:** [@JazzyBeen](https://www.google.com/search?q=https://t.me/JazzyBeen)
+* **Phone:** +7 (953) 156 64-35
