@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/9e341218-c959-4663-9366-fd0e275e5782" width="100%" alt="App Screenshot" />
+<img src="https://github.com/user-attachments/assets/91e070b6-34fd-4197-b4c3-05a31f02ed78" width="100%" alt="App Screenshot" />
 
 **Email:** huseinsadigov@gmail.com
 
