@@ -1,8 +1,9 @@
-<img src="https://github.com/user-attachments/assets/829d3a01-34ca-4d4b-b3db-1c587b00de4e" width="100%" alt="App Screenshot" />
+<img src="https://github.com/user-attachments/assets/a4958926-3842-4e4e-89c4-574fffb11821" width="100%" alt="App Screenshot" />
+
 
 **Email:** huseinsadigov@gmail.com
 
-I am a 2nd year ITMO University student focused on native Android development using Kotlin and Java.
+I am a 2nd year ITMO University student focused on Java Backend development using Java and Spring.
 
 ---
 
@@ -12,21 +13,23 @@ I am a 2nd year ITMO University student focused on native Android development us
 identity:
   name: Huseyn Sadigov
   education: ITMO University, Faculty of FITP (Software Engineering, 2024-2028)
-  languages: [Russian, Azerbaijani, Turkish, English (B2)]
+  languages: [Russian, English (B2)]
 
 core_disciplines:
   - Object-Oriented Programming
   - Algorithms and Data Structures
-  - Java Programming Technologies
   - Database Design
+  - Distributed Systems
 
 skills_and_stack:
-  languages: [Kotlin, Java]
-  android_sdk: [Jetpack Compose, XML, ViewModel, Lifecycle]
-  architecture_di: [MVVM, Clean Architecture, Dagger/Hilt]
-  networking_storage: [Retrofit, Room]
-  tools: [Git, Android Studio, Gradle]
-
+  languages: [Java, Kotlin]
+  backend: [Spring Boot, Spring Security, Spring Data JPA, Spring MVC]
+  architecture: [Microservices, Clean Architecture]
+  messaging: [Apache Kafka, gRPC]
+  databases: [PostgreSQL, MongoDB]
+  security: [Keycloak, OAuth 2.0, OpenID Connect, JWT, RBAC]
+  testing: [JUnit 5, Spring Boot Test, MockMvc, Testcontainers]
+  tools: [Docker, Kubernetes, Git, GitLab CI/CD, Gradle, Linux]
 ```
 
 ---
