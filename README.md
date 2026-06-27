@@ -3,7 +3,7 @@
 
 **Email:** huseinsadigov@gmail.com
 
-I am a 2nd year ITMO University student focused on Java Backend development using Java and Spring.
+I am a 3nd year ITMO University student focused on Java Backend development using Java and Spring.
 
 ---
 
