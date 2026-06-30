@@ -22,14 +22,14 @@ core_disciplines:
   - Distributed Systems
 
 skills_and_stack:
-  languages: [Java, Kotlin]
+  languages: [Java]
   backend: [Spring Boot, Spring Security, Spring Data JPA, Spring MVC]
   architecture: [Microservices, Clean Architecture]
   messaging: [Apache Kafka, gRPC]
-  databases: [PostgreSQL, MongoDB]
-  security: [Keycloak, OAuth 2.0, OpenID Connect, JWT, RBAC]
+  databases: [PostgreSQL]
+  security: [Keycloak, OAuth 2.0, OpenID Connect]
   testing: [JUnit 5, Spring Boot Test, MockMvc, Testcontainers]
-  tools: [Docker, Kubernetes, Git, GitLab CI/CD, Gradle, Linux]
+  tools: [Docker, Git, Gradle, Linux]
 ```
 
 ---
