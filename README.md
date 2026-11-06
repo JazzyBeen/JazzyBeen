@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/26026f76-9a5c-44a8-ac48-627e656096fc" width="100%" alt="App Screenshot" />
+<img src="banner.gif" width="100%" alt="Huseyn Sadigov — Software Engineer" />
 
 ### 📫 Connect with me
 * **Email:** huseinsadigov@gmail.com
